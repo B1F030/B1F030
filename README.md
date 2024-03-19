@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Zhang Guanjing(张冠璟), a student from Suzhou University of Science and Technology.
-- 🔭 I’m currently working on kuberneres CRD developing.
+- 🔭 I’m currently working on kubernetes CRD developing.
 - 🌱 I’m currently learning about kubernetes-sig/kueue.
 <!--
 **B1F030/B1F030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
