@@ -5,7 +5,7 @@ My name is Zhang Guanjing(张冠璟), a student from Suzhou University of Scienc
 
 <div style="display: flex; gap: 3px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1F030&layout=donut&theme=vue-dark">
+<!--   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1F030&layout=donut&theme=vue-dark"> -->
 </div>
 <!--
 **B1F030/B1F030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
