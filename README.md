@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kubernetes-sigs) Mebmer, a student from Suzhou University of Science and Technology.
-- 🔭 I’m currently working on kubernetes CRD developing.
-- 🌱 I’m currently learning about kubernetes-sig/kueue.
+- 🔭 I’m currently working on kubernetes CRD developing and SRE.
+- 🌱 I’m currently learning about kubernetes-sigs/kueue, karmada, prometheus.
+- 💻 [DaoCloud](daocloud.io)(2023.10 ~ 2024.04, internship), [IFTech](iftech.io)(2024.04 ~ now).
 
 <div style="display: flex; gap: 3px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars">
