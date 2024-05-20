@@ -5,7 +5,7 @@ My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kube
 - 💻 [DaoCloud](https://daocloud.io)(2023.10 ~ 2024.04, internship), [IFTech](https://iftech.io)(2024.04 ~ now).
 
 <div style="display: flex; gap: 3px;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars&card_width=300px"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=B1F030">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars&card_width=200px"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=B1F030">
 <!--   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1F030&layout=donut&theme=vue-dark"> -->
 </div>
 <!--
