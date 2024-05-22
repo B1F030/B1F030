@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kubernetes-sigs) Mebmer, a student from Suzhou University of Science and Technology.
+My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kubernetes-sigs) Member, a student from Suzhou University of Science and Technology.
 - 🔭 I’m currently working on kubernetes CRD developing and SRE.
 - 🌱 I’m currently learning about kubernetes-sigs/kueue, karmada, prometheus.
 - 💻 [DaoCloud](https://daocloud.io)(2023.10 ~ 2024.04, internship), [IFTech](https://iftech.io)(2024.04 ~ now).
