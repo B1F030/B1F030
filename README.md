@@ -8,7 +8,7 @@ My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kube
 
 # Personal Milestones:
 - 【OSPP 2023】[OpenFunction 函数触发器](https://summer-ospp.ac.cn/2023/org/prodetail/236690243?lang=zh&list=pro)
-- 【KEP-1224】LendingLimit [KEP](https://github.com/kubernetes-sigs/kueue/pull/1331) [Feature](https://github.com/kubernetes-sigs/kueue/pull/1385)
+- 【KEP-1224】LendingLimit [KEP](https://github.com/kubernetes-sigs/kueue/tree/main/keps/1224-lending-limit) [Feature](https://github.com/kubernetes-sigs/kueue/pull/1385)
 
 <div style="display: flex; gap: 3px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars&card_width=180px"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=B1F030&theme=vue-dark&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&card_width=400px">
