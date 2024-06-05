@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=B1F030)
 # Hi there 👋
-My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kubernetes-sigs) Member, a student from Suzhou University of Science and Technology.
+My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kubernetes-sigs) Member.
 
 - 🔭 I’m currently working on kubernetes CRD developing and SRE.
 - 🌱 I’m currently learning about kubernetes-sigs/kueue, karmada, prometheus.
