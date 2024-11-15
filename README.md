@@ -15,7 +15,7 @@ My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kube
 
 # Github Chart
 <div style="display: flex; gap: 3px;">
-  <img height="200px" src="https://github-readme-stats-omega-seven-67.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars&card_width=180px"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=B1F030&theme=vue-dark&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&card_width=400px">
+  <img height="200px" src="https://github-readme-stats-omega-seven-67.vercel.app/api?username=B1F030&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true&include_all_commits=true&hide=stars&card_width=180px"><img height="200px" src="https://github-readme-streak-stats-b1f030s-projects.vercel.app/?user=B1F030&theme=vue-dark&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&card_width=400px">
 <!--   <img height="200px" src="https://github-readme-stats-omega-seven-67.vercel.app/api/top-langs/?username=B1F030&layout=donut&theme=vue-dark"> -->
 </div>
 <!--
