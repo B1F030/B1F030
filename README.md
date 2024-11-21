@@ -11,6 +11,7 @@ My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kube
 |   Project   |                            Issue                             |                           Proposal                           |                           Feature                            |
 | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  OSPP 2023  | [OpenFunction 函数触发器](https://summer-ospp.ac.cn/2023/org/prodetail/236690243?lang=zh&list=pro) | [Proposal](https://github.com/OpenFunction/OpenFunction/blob/main/docs/proposals/20230726-integrate-keda-http-add-on.md) | [Feature](https://github.com/OpenFunction/OpenFunction/pull/483) |
+|  OSPP 2024  | [Karmada 组件 RBAC 权限最小化](https://summer-ospp.ac.cn/org/prodetail/245c40153?lang=zh&list=pro) | [Proposal](https://summer-ospp.ac.cn/previewPdf/156) | [Feature](https://github.com/karmada-io/karmada/pull/5586) |
 |  KEP-1224   | [LendingLimit](https://github.com/kubernetes-sigs/kueue/issues/1224) | [KEP](https://github.com/kubernetes-sigs/kueue/tree/main/keps/1224-lending-limit) | [Feature](https://github.com/kubernetes-sigs/kueue/pull/1385) |
 
 # Github Chart
