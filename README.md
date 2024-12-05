@@ -4,7 +4,7 @@ My name is Zhang Guanjing(张冠璟), [@kubernetes-sigs](https://github.com/kube
 
 - 🔭 I’m currently working on kubernetes CRD developing and SRE.
 - 🌱 I’m currently learning about [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue), [Karmada](https://github.com/karmada-io/karmada), [Prometheus](https://github.com/prometheus/prometheus).
-- 💻 Work experiences: [DaoCloud](https://daocloud.io)(2023.10 ~ 2024.04, internship), [IFTech](https://iftech.io)(2024.04 ~ now, SRE).
+- 💻 Work experiences: [DaoCloud](https://www.daocloud.io)(2023.10 ~ 2024.04, internship), [IFTech](https://iftech.io)(2024.04 ~ now, SRE).
 - 📫 How to reach me: b1fzhang@gmail.com.
 
 # Personal Milestones
